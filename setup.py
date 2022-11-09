@@ -4,13 +4,13 @@ with open('README.md', 'r') as fh:
 	long_description = fh.read()
 
 setuptools.setup(
-	name='AlmaIndicator',
-	version='0.0.4',
-	author='Mark Lester A. Bolotaolo',
+	name='AlmaIndicate',
+	version='0.0.1',
+	author='Mark Lester A. Bolotaolo, Karun Shrestha',
 	description='A small library for computing ALMA indicator for stocks',
 	long_description=long_description,
 	long_description_content_type='text/markdown',
-	url='https://github.com/mlab817/ta-alma',
+	url='https://github.com/karunstha/ta-alma',
 	packages=setuptools.find_packages(),
 	classifiers=[
 		'Programming Language :: Python :: 3',

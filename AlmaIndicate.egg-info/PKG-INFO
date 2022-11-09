@@ -1,11 +1,9 @@
 Metadata-Version: 2.1
-Name: AlmaIndicator
-Version: 0.0.4
+Name: AlmaIndicate
+Version: 0.0.1
 Summary: A small library for computing ALMA indicator for stocks
-Home-page: https://github.com/mlab817/ta-alma
-Author: Mark Lester A. Bolotaolo
-License: UNKNOWN
-Platform: UNKNOWN
+Home-page: https://github.com/karunstha/ta-alma
+Author: Mark Lester A. Bolotaolo, Karun Shrestha
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -57,5 +55,3 @@ Note that there will be `NaN` values at the beginning of the ALMA series since t
 ## Sample Figure
 
 ![spy - alma](https://user-images.githubusercontent.com/29625844/92998867-1d3d4e80-f54f-11ea-919c-dd48c8927172.png)
-
-
